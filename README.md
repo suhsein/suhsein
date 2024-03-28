@@ -51,10 +51,6 @@
 
 <h3 align="center">Contact Me</h3>
 <div align="center">
-  <a href="https://velog.io/@suhsein">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/>
-  </a>
-  <a href="mailto:mini9075@naver.com">
-    <img src="https://img.shields.io/badge/mini9075@naver.com-03C75A?style=for-the-badge&logo=maildotru&logoColor=white"/>
-  </a>
+  <a href="https://velog.io/@suhsein"><img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/></a>&nbsp
+  <a href="mailto:mini9075@naver.com"><img src="https://img.shields.io/badge/mini9075@naver.com-03C75A?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
 </div>
