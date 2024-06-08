@@ -1,5 +1,5 @@
 ### Hi there
-##### I’m currently learning Spring, JPA, SQL
+##### I’m currently learning Spring Security, JWT, OAuth2
 
 
 <div align="center">
