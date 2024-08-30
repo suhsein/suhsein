@@ -1,6 +1,5 @@
 ### Hi there
-##### I’m currently learning Spring Security, JWT, OAuth2
-
+### Currently Learning Web Full-Stack course in ASAC 06
 
 <div align="center">
 
@@ -32,25 +31,10 @@
 
 <br>
 
-<h3 align="center">Tools</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-f7f7f7?style=for-the-badge&logo=Amazon AWS&logoColor=f89400">&nbsp
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/Visual Studio-f7f7f7.svg?style=for-the-badge&logo=visualstudio&logoColor=5C2D91" />&nbsp
-</div>
-
-<br>
-
 <h3 align="center">Contact Me</h3>
 <div align="center">
   <a href="https://velog.io/@suhsein"><img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/></a>&nbsp
-  <a href="mailto:mini9075@naver.com"><img src="https://img.shields.io/badge/mini9075@naver.com-03C75A?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
+  <a href="https://suhsein.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=none&logoColor=white"/></a>&nbsp <br>
+  <a href="mailto:mini9075@naver.com"><img src="https://img.shields.io/badge/mini9075@naver.com-03C75A?style=for-the-badge&logo=maildotru&logoColor=white"/></a>&nbsp
+  <a href="mailto:mini9075@gmail.com"><img src="https://img.shields.io/badge/mini9075@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
