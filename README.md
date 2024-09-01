@@ -1,5 +1,5 @@
-### Hi there
-### Currently Learning Web Full-Stack course in ASAC 06
+##### Hi there
+##### I'm Currently Learning Web Full-Stack course in ASAC 06
 
 <div align="center">
 
